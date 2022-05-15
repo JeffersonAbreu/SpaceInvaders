@@ -1,6 +1,8 @@
 # Spece Invaders
 <h1 align="center"> Jogo - em Java com Canvas - sem engine </h1>
-![img exemplo](https://github.com/JeffersonAbreu/SpaceInvaders/readme/space.png)
+<h1 align="center">
+    <img alt="Print do Jogo" title="#PrintdoJogo" src="./readme/space.png" />
+</h1>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
