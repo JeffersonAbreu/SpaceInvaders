@@ -1,6 +1,6 @@
-# Seu título aqui
+# Spece Invaders
 <h1 align="center"> Jogo - em Java com Canvas - sem engine </h1>
-![img exemplo](./readme/space.png)
+![img exemplo](https://github.com/JeffersonAbreu/SpaceInvaders/readme/space.png)
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
